@@ -9,11 +9,11 @@
     },
     {
         "name": "Aurelia",
-        "image": "https://i.pinimg.com/474x/1f/45/ce/1f45cee3c853836711eba4780b20cfe6.jpg"
+        "image": "https://i.pinimg.com/564x/51/02/05/510205941d2791ed792bd40fb41c272b.jpg"
     },
     {
         "name": "Azizi Asadel",
-        "image": "https://i.pinimg.com/736x/83/c2/66/83c26686a229282413afe9e4a65c112f.jpg"
+        "image": "https://i.pinimg.com/736x/79/a5/fa/79a5fa8c2a33b0c9df596efb935d91e7.jpg"
     },
     {
         "name": "Callista Alifia",
@@ -21,7 +21,7 @@
     },
     {
         "name": "Cornelia Vanisa",
-        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5c84bDPzIqfKuHfTR3zAeuKsgjo10HzwBTK-F7k87v99Fr5BQ"
+        "image": "https://i.pinimg.com/564x/d1/61/7e/d1617ebfe1d7cb0ecad1038162d6bfa8.jpg"
     },
     {
         "name": "Febriola Sinambela",
@@ -69,42 +69,146 @@
     },
     {
         "name": "Indira Seruni",
-        "image": "https://i.pinimg.com/474x/6f/a2/ae/6fa2aeb553a49908c2f4657027ce8325.jpg"
+        "image": "https://i.pinimg.com/736x/64/56/3e/64563e634abfc949e273ead66d26719b.jpg"
     },
     {
         "name": "Jessica Chandra",
-        "image": "https://i.pinimg.com/474x/0f/48/1c/0f481c0165f3e6e5faba64afba107d13.jpg"
+        "image": "https://i.pinimg.com/736x/b8/f9/6e/b8f96ef492bf22a760564d1303340f91.jpg"
     },
     {
         "name": "Jesslyn Elly",
-        "image": "https://i.pinimg.com/474x/1a/6b/41/1a6b419385d0c0434de7defe41260deb.jpg"
+        "image": "https://i.pinimg.com/474x/0f/48/1c/0f481c0165f3e6e5faba64afba107d13.jpg"
     },
     {
         "name": "Kathrina Irene",
-        "image": "https://i.pinimg.com/474x/21/74/ef/2174ef26c6d0c65172f038e7294c89ff.jpg"
+        "image": "https://i.pinimg.com/474x/1a/6b/41/1a6b419385d0c0434de7defe41260deb.jpg"
     },
     {
         "name": "Lulu Salsabila",
-        "image": "https://i.pinimg.com/474x/19/11/bd/1911bd807f85ebe715c879ca17b5cd72.jpg"
+        "image": "https://i.pinimg.com/474x/21/74/ef/2174ef26c6d0c65172f038e7294c89ff.jpg"
     },
     {
         "name": "Marsha Lenathea",
-        "image": "https://i.pinimg.com/474x/48/4f/c6/484fc6660deb103bad175c3b7d0fbfda.jpg"
+        "image": "https://i.pinimg.com/474x/19/11/bd/1911bd807f85ebe715c879ca17b5cd72.jpg"
     },
     {
         "name": "Mutiara Azzahra",
-        "image": "https://i.pinimg.com/736x/71/3f/14/713f146569c23d878edc66ebf03361d7.jpg"
+        "image": "https://i.pinimg.com/474x/48/4f/c6/484fc6660deb103bad175c3b7d0fbfda.jpg"
     },
     {
         "name": "Raisha Syifa",
-        "image": "https://i.pinimg.com/736x/cf/4d/7c/cf4d7c46382a6faf0556c316b8bb91c6.jpg"
+        "image": "https://i.pinimg.com/564x/82/62/eb/8262ebaf6adb621c741f77fff4ff2086.jpg"
     },
     {
         "name": "Reva Fidela",
-        "image": "https://i.pinimg.com/474x/35/59/45/3559453ea1073e2e67360a98e8354046.jpg"
+        "image": "https://i.pinimg.com/736x/31/21/f0/3121f04ea1363583560786beb5d89232.jpg"
     },
     {
         "name": "Shania Gracia",
-        "image": "https://i.pinimg.com/736x/35/59/45/3559453ea1073e2e67360a98e8354046.jpg"
+        "image": "https://i.pinimg.com/736x/9f/eb/73/9feb735db09434711cd6ffa8c1f976c8.jpg"
+    },
+    {
+        "name": "Abigail Rachel",
+        "image": "https://i.pinimg.com/736x/b8/36/10/b8361023ae328dbbe144e6e1c31be85e.jpg"
+    },
+    {
+        "name": "Adeline Wijaya",
+        "image": "https://i.pinimg.com/564x/b9/af/c4/b9afc49f791a39718d765453ce5e2320.jpg"
+    },
+    {
+        "name": "Alya Amanda",
+        "image": "https://i.pinimg.com/736x/99/ec/93/99ec939f767fc12a3ca38bd5f63d0d07.jpg"
+    },
+    {
+        "name": "Anindya Ramadhani",
+        "image": "https://i.pinimg.com/736x/a6/f5/e5/a6f5e570352e61c864e43081706d6f40.jpg"
+    },
+    {
+        "name": "Aurhel Alana",
+        "image": "https://i.pinimg.com/736x/16/4e/ec/164eec51f11085c6f8d918a713f0f891.jpg"
+    },
+    {
+        "name": "Catherina Vallencia",
+        "image": "https://i.pinimg.com/736x/98/a4/e8/98a4e8f04bfa0b615cac2e5671647127.jpg"
+    },
+    {
+        "name": "Cathleen Nixie",
+        "image": "https://i.pinimg.com/736x/bc/8d/68/bc8d6868b0fdbec922c4c46d673d1772.jpg"
+    },
+    {
+        "name": "Celline Thefani",
+        "image": "https://i.pinimg.com/564x/83/1f/50/831f50ea1194ae6e29936cc6a83b5c02.jpg"
+    },
+    {
+        "name": "Chelsea Davina",
+        "image": "https://i.pinimg.com/736x/40/3f/90/403f90e0b9f75dace6ffc936f2799936.jpg"
+    },
+    {
+        "name": "Cynthia Yaputera",
+        "image": "https://i.pinimg.com/originals/e5/c1/ea/e5c1ea2ba7aed68d01b8e8eccc173b0e.jpg"
+    },
+    {
+        "name": "Dena Natalia",
+        "image": "https://i.pinimg.com/originals/5d/11/d1/5d11d17db54acfa04a03dd271d43715d.jpg"
+    },
+    {
+        "name": "Desy Natalia",
+        "image": "https://i.pinimg.com/originals/a7/46/5f/a7465ff69df19512270a411a32189a06.jpg"
+    },
+    {
+        "name": "Fritzy Rosmerian",
+        "image": "https://i.pinimg.com/originals/ac/a1/76/aca1767faca2fa6194355fc3632e8aa8.jpg"
+    },
+    {
+        "name": "Gendis Mayrannisa",
+        "image": "https://i.pinimg.com/564x/31/67/4c/31674cf64f142ff12583466e19519708.jpg"
+    },
+    {
+        "name": "Hillary Abigail",
+        "image": "https://i.pinimg.com/originals/8f/ab/02/8fab0241d63aeab8e0189edcfb74eb83.jpg"
+    },
+    {
+        "name": "Jazzlyn Trisha",
+        "image": "https://i.pinimg.com/originals/73/02/c1/7302c142b78952d909b1f219f3ce4e5f.jpg"
+    },
+    {
+        "name": "Letycia Moreen",
+        "image": "https://i.pinimg.com/originals/d2/a8/02/d2a8027e744bc21b78150ae9579200db.jpg"
+    },
+    {
+        "name": "Michelle Alexandra",
+        "image": "https://i.pinimg.com/originals/dc/ed/6f/dced6f1de64f8bb1a4e356b6b25cd320.jpg"
+    },
+    {
+        "name": "Michelle Levia",
+        "image": "https://i.pinimg.com/originals/31/ae/88/31ae883cbab93fa99fd8d94f5dd2443e.jpg"
+    },
+    {
+        "name": "Nayla Suji",
+        "image": "https://i.pinimg.com/originals/e3/56/82/e356829797c6eebde6b30ccb802a897a.jpg"
+    },
+    {
+        "name": "Nina Tutachia",
+        "image": "https://i.pinimg.com/originals/6e/70/9c/6e709cba979385128e82dca641537621.jpg"
+    },
+    {
+        "name": "Oline Manuel",
+        "image": "https://i.pinimg.com/originals/82/68/f0/8268f0bee9237ecbee1148dc65b14471.jpg"
+    },
+    {
+        "name": "Regina Wilian",
+        "image": "https://i.pinimg.com/originals/78/0b/00/780b009de0c5ef01a2ff54a87bdf68fd.png"
+    },
+    {
+        "name": "Ribka Budiman",
+        "image": "https://i.pinimg.com/originals/96/31/43/9631430685792a56144d0bc5b144d13a.jpg"
+    },
+    {
+        "name": "Shabilqis Naila",
+        "image": "https://i.pinimg.com/originals/50/44/9d/50449d3f745565fb3d4b40e59214a134.jpg"
+    },
+    {
+        "name": "Victoria Kimberly",
+        "image": "https://i.pinimg.com/736x/39/46/a8/3946a87d8438d4029f7c4652055d431d.jpg"
     }
 ]
